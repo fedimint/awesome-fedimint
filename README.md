@@ -7,7 +7,6 @@
 
 # Wallets
 * [`fedimint-cli`](https://github.com/fedimint/fedimint/): command line wallet included in Fedimint that is mainly used for testing and debugging.
-* [Fluttermint](https://github.com/futurepaul/fluttermint): discontinued, but honourable mention since it was the first graphical Fedimint client
 * [Fedi](https://www.fedi.xyz/): proprietary mobile app and PWA Fedimint wallet
 * [Webimint](https://github.com/elsirion/webimint-rs/): open source Fedimint PWA wallet completely written in rust
 * [Mutiny Wallet](https://mutinywallet.com/): open source Bitcoin, Lightning and Fedimint PWA wallet
@@ -28,3 +27,6 @@
 
 #  Public Federations (not an endorsement)
 * [Fedi Alpha (Mutinynet)](https://alpha.fedi.xyz/)
+
+# Historic/Discontinued
+* [Fluttermint](https://github.com/futurepaul/fluttermint): discontinued, but honourable mention since it was the first graphical Fedimint client

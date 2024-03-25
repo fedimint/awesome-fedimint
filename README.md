@@ -8,7 +8,7 @@
 # Wallets
 * [`fedimint-cli`](https://github.com/fedimint/fedimint/): command line wallet included in Fedimint that is mainly used for testing and debugging.
 * [Fedi](https://www.fedi.xyz/): proprietary mobile app and PWA Fedimint wallet
-* [Webimint](https://github.com/elsirion/webimint-rs/): open source Fedimint PWA wallet completely written in rust
+* [Webimint](https://github.com/elsirion/webimint-rs/): open source Fedimint PWA wallet completely written in rust (very hacky, don't rely on it, it's a weekend project)
 * [Mutiny Wallet](https://mutinywallet.com/): open source Bitcoin, Lightning and Fedimint PWA wallet
 
 #  Public Federations (not an endorsement)

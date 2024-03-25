@@ -11,6 +11,21 @@
 * [Webimint](https://github.com/elsirion/webimint-rs/): open source Fedimint PWA wallet completely written in rust
 * [Mutiny Wallet](https://mutinywallet.com/): open source Bitcoin, Lightning and Fedimint PWA wallet
 
+#  Public Federations (not an endorsement)
+This is not a heavily curated list, use your own judgement. We reserve the right to remove Federations at our discretion if there is evidence of unethical behavior.
+
+## Mainnet
+* [FREE Madeira](https://twitter.com/BitcoinAtlantis/status/1772276338621071542)
+```
+fed11qgqrztmhwden5te0v3jkcarp9ekkz6twdejhgtfjx5kk6ctyv45hycfwv3jhvtnxv4jxjcn5vvhxxmmd9upqzgqjppuuzgeh39ne5nkek3a624lcmg752aa5uzelv8a94lf3x7uzfgyzt6t5
+```
+
+## Testnet
+* [Fedi Alpha (Mutinynet)](https://alpha.fedi.xyz/)
+```
+fed11qgqrgvnhwden5te0v9k8q6rp9ekh2arfdeukuet595cr2ttpd3jhq6rzve6zuer9wchxvetyd938gcewvdhk6tcqqysptkuvknc7erjgf4em3zfh90kffqf9srujn6q53d6r056e4apze5cw27h75
+```
+
 # Client Libraries
 * [`fedimint-client`](https://github.com/fedimint/fedimint): official Rust client library, requires client modules to become useful (included in main repo: `wallet`, `mint`, `ln`)
 * [`fedimint-http-client`](https://github.com/Kodylow/fedimint-http-client): wrapper around `fedimint-client` with its default modules exposing a HTTP API for easier cross-language consumption
@@ -24,9 +39,6 @@
 
 # Misc
 * [Hermes](https://github.com/Kodylow/hermes): lightning address server for Fedimint
-
-#  Public Federations (not an endorsement)
-* [Fedi Alpha (Mutinynet)](https://alpha.fedi.xyz/)
 
 # Historic/Discontinued
 * [Fluttermint](https://github.com/futurepaul/fluttermint): discontinued, but honourable mention since it was the first graphical Fedimint client

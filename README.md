@@ -25,6 +25,11 @@ fed11qgqrztmhwden5te0v3jkcarp9ekkz6twdejhgtfjx5kk6ctyv45hycfwv3jhvtnxv4jxjcn5vvh
 fed11qgqzygrhwden5te0v9cxjtnzd96xxmmfdec8y6twvd5hqmr9wvhxuet59upqzg9jzp5vsn6mzt9ylhun70jy85aa0sn7sepdp4fw5tjdeehah0hfmufvlqem
 ```
 
+* freedom one
+```
+fed11qgqzz8mhwden5te0vejkg6tdd9h8gepwvchxjmm5w4hxgunp9e3k7mf0qyqjpj2ykt73ullqfj58lxjh67y5ed53zm8vvfjvk5h65ufz3a8v2nxky9wuce
+```
+
 * [bitcoinmints.com](https://bitcoinmints.com/) lists public Cashu and Fedimint mints
 
 ## Testnet

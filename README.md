@@ -47,7 +47,7 @@ fed11qgqrgvnhwden5te0v9k8q6rp9ekh2arfdeukuet595cr2ttpd3jhq6rzve6zuer9wchxvetyd93
 
 # Modules
 * [Prediction Markets](https://github.com/toyota-corolla0/fedimint-prediction-markets)
-* [Nostr](https://github.com/fedimint/fedimint/pull/3583): threshold-controlled nostr accounts
+* [ROASTR](https://github.com/m1sterc001guy/roastr): Module for collaboratively signing Nostr events using [ROAST](https://medium.com/blockstream/roast-robust-asynchronous-schnorr-threshold-signatures-ddda55a07d1b).
 
 # Misc
 * [Hermes](https://github.com/Kodylow/hermes): lightning address server for Fedimint

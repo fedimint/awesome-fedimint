@@ -15,11 +15,6 @@
 This is not a heavily curated list, use your own judgement. We reserve the right to remove Federations at our discretion if there is evidence of unethical behavior.
 
 ## Mainnet
-* [FREE Madeira](https://twitter.com/BitcoinAtlantis/status/1772276338621071542)
-```
-fed11qgqrztmhwden5te0v3jkcarp9ekkz6twdejhgtfjx5kk6ctyv45hycfwv3jhvtnxv4jxjcn5vvhxxmmd9upqzgqjppuuzgeh39ne5nkek3a624lcmg752aa5uzelv8a94lf3x7uzfgyzt6t5
-```
-
 * Bitcoin Principles
 ```
 fed11qgqzygrhwden5te0v9cxjtnzd96xxmmfdec8y6twvd5hqmr9wvhxuet59upqzg9jzp5vsn6mzt9ylhun70jy85aa0sn7sepdp4fw5tjdeehah0hfmufvlqem

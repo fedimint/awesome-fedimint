@@ -26,6 +26,16 @@ fed11qgqzygrhwden5te0v9cxjtnzd96xxmmfdec8y6twvd5hqmr9wvhxuet59upqzg9jzp5vsn6mzt9
 fed11qgqzz8mhwden5te0vejkg6tdd9h8gepwvchxjmm5w4hxgunp9e3k7mf0qyqjpj2ykt73ullqfj58lxjh67y5ed53zm8vvfjvk5h65ufz3a8v2nxky9wuce
 ```
 
+* [Odin Federation](https://odinfederation.xyz)
+```
+fed11qgqzutrhwden5te0vejkg6tdd9h8gepwvejkg6tdd9h8gtn0v35kuen9v3jhyct5d9hkutnc09az7qqpyp938g2xae96wv4jhzg55u4q5tjcw037jsk6948walv95hlyrunm5tyfcdy
+```
+
+* E-Cash Club
+```
+fed11qgqpv9rhwden5te0vekjucm5wf3zu6t09amhxtcpqys2ajnveq8lc5ct6t25kztgrahdhxjptsmzujhjlc74upqnwqr05ggd78dhm
+```
+
 * [bitcoinmints.com](https://bitcoinmints.com/?show=fedimint) lists public Cashu and Fedimint mints
 
 ## Testnet

@@ -57,6 +57,7 @@ fed11qgqrgvnhwden5te0v9k8q6rp9ekh2arfdeukuet595cr2ttpd3jhq6rzve6zuer9wchxvetyd93
 
 # Misc
 * [Hermes](https://github.com/Kodylow/hermes): lightning address server for Fedimint
+* [Fedimint-Charts](https://github.com/ngutech21/fedimint-charts): Helm Charts for deploying Fedimint on Kubernetes
 
 # Historic/Discontinued
 * [Fluttermint](https://github.com/futurepaul/fluttermint): discontinued, but honourable mention since it was the first graphical Fedimint client

@@ -45,6 +45,7 @@ fed11qgqrgvnhwden5te0v9k8q6rp9ekh2arfdeukuet595cr2ttpd3jhq6rzve6zuer9wchxvetyd93
 * [`fedimint-sdk-ts`](https://github.com/Kodylow/fedimint-sdk-ts): Typescript Fedimint client library using `fedimint-http-client` under the hood
 * [`fedimint-sdk-py`](https://github.com/Kodylow/fedimint-sdk-ts): Python Fedimint client library using `fedimint-http-client` under the hood
 * [`fedimint-sdk-go`](https://github.com/Kodylow/fedimint-sdk-ts): Go Fedimint client library using `fedimint-http-client` under the hood
+* [`fedimint-web-sdk`](https://github.com/fedimint/fedimint-web-sdk): Wasm-Powered SDK for building fedimint clients in the web
 
 # Modules
 * [Prediction Markets](https://github.com/toyota-corolla0/fedimint-prediction-markets)

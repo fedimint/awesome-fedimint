@@ -15,6 +15,10 @@
 #  Public Federations (not an endorsement)
 This is not a heavily curated list, use your own judgement. We reserve the right to remove Federations at our discretion if there is evidence of unethical behavior.
 
+## Lists
+* [Fedimint Observer](https://observer.fedimint.org/) lists public Fedimints and monitors their health
+* [bitcoinmints.com](https://bitcoinmints.com/?show=fedimint) lists public Cashu and Fedimint mints
+
 ## Mainnet
 * Bitcoin Principles
 ```
@@ -25,8 +29,6 @@ fed11qgqzygrhwden5te0v9cxjtnzd96xxmmfdec8y6twvd5hqmr9wvhxuet59upqzg9jzp5vsn6mzt9
 ```
 fed11qgqpv9rhwden5te0vekjucm5wf3zu6t09amhxtcpqys2ajnveq8lc5ct6t25kztgrahdhxjptsmzujhjlc74upqnwqr05ggd78dhm
 ```
-
-* [bitcoinmints.com](https://bitcoinmints.com/?show=fedimint) lists public Cashu and Fedimint mints
 
 ## Testnet
 * [Fedi Alpha (Mutinynet)](https://alpha.fedi.xyz/)

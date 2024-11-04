@@ -37,12 +37,12 @@ fed11qgqrgvnhwden5te0v9k8q6rp9ekh2arfdeukuet595cr2ttpd3jhq6rzve6zuer9wchxvetyd93
 ```
 
 # Client Libraries
+* [`fedimint-web-sdk`](https://github.com/fedimint/fedimint-web-sdk) ([docs](https://web.fedimint.org)): Wasm-Powered SDK for building fedimint clients in the web
 * [`fedimint-client`](https://github.com/fedimint/fedimint): official Rust client library, requires client modules to become useful (included in main repo: `wallet`, `mint`, `ln`)
 * [`fedimint-http-client`](https://github.com/Kodylow/fedimint-http-client): wrapper around `fedimint-client` with its default modules exposing a HTTP API for easier cross-language consumption
 * [`fedimint-sdk-ts`](https://github.com/Kodylow/fedimint-sdk-ts): Typescript Fedimint client library using `fedimint-http-client` under the hood
 * [`fedimint-sdk-py`](https://github.com/Kodylow/fedimint-sdk-ts): Python Fedimint client library using `fedimint-http-client` under the hood
 * [`fedimint-sdk-go`](https://github.com/Kodylow/fedimint-sdk-ts): Go Fedimint client library using `fedimint-http-client` under the hood
-* [`fedimint-web-sdk`](https://github.com/fedimint/fedimint-web-sdk): Wasm-Powered SDK for building fedimint clients in the web
 
 # Modules
 * [Prediction Markets](https://github.com/toyota-corolla0/fedimint-prediction-markets)

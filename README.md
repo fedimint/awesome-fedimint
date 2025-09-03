@@ -12,6 +12,7 @@
 * [Mutiny Wallet](https://mutinywallet.com/): open source Bitcoin, Lightning and Fedimint PWA wallet
 * [Harbor](https://github.com/MutinyWallet/harbor): open source Fedimint wallet (very early, only supports signet)
 * [Vipr-Wallet](https://github.com/ngutech21/vipr-wallet): open source PWA Fedimint wallet (beta stage, expect incomplete features and potential bugs)
+* [Haze Wallet](https://github.com/Harshdev098/haze-wallet/): is a Fedimint web wallet that combines power with simplicity, offering a feature-rich experience with more controllability and safe to use with small amounts
 
 #  Public Federations (not an endorsement)
 This is not a heavily curated list, use your own judgement. We reserve the right to remove Federations at our discretion if there is evidence of unethical behavior.

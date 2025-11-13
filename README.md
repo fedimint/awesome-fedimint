@@ -8,10 +8,11 @@
 # Wallets
 * [`fedimint-cli`](https://github.com/fedimint/fedimint/): command line wallet included in Fedimint that is mainly used for testing and debugging.
 * [Fedi](https://www.fedi.xyz/): proprietary mobile app and PWA Fedimint wallet
-* [Webimint](https://github.com/elsirion/webimint-rs/): open source Fedimint PWA wallet completely written in rust (very hacky, don't rely on it, it's a weekend project)
-* [Mutiny Wallet](https://mutinywallet.com/): open source Bitcoin, Lightning and Fedimint PWA wallet
+* [Ecash App](https://ecash.love): flutter based, free and open source Fedimint wallet
 * [Harbor](https://github.com/MutinyWallet/harbor): open source Fedimint wallet (very early, only supports signet)
 * [Vipr-Wallet](https://github.com/ngutech21/vipr-wallet): open source PWA Fedimint wallet (beta stage, expect incomplete features and potential bugs)
+* [Webimint](https://github.com/elsirion/webimint-rs/): open source Fedimint PWA wallet completely written in rust (very hacky, don't rely on it, it's a weekend project)
+* [Mutiny Wallet](https://mutinywallet.com/): open source Bitcoin, Lightning and Fedimint PWA wallet (discontinued)
 
 #  Public Federations (not an endorsement)
 This is not a heavily curated list, use your own judgement. We reserve the right to remove Federations at our discretion if there is evidence of unethical behavior.
